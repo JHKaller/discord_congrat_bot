@@ -15,6 +15,7 @@ To add The SEAL Bot to your Discord server, follow these simple steps:
 ## Usage
 Once The SEAL Bot is added to your server, it will send a message to a designated channel whenever a member receives a new role. To set up the bot, you will need to define the following environment variables in your .env file:
 - ``BOT_TOKEN``: Your bot's token.
+
 You will also have to change the following:
 - ``ch_name``: The name of the channel you would like the congrats to be sent to.
 - ``role_name``: The role that triggers the message when being assigned.
